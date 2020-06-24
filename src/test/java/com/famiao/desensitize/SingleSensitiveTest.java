@@ -1,4 +1,4 @@
-package com.tzbank.desensitize;
+package com.famiao.desensitize;
 
 import com.github.houbb.sensitive.api.IStrategy;
 import com.github.houbb.sensitive.core.api.strategory.StrategyEmail;
@@ -6,7 +6,7 @@ import com.github.houbb.sensitive.core.api.strategory.StrategyEmail;
 /**
  * 
  * @desc 针对单个字段
- * @author 台州银行:曾斌
+ * @author famiao:曾斌
  * @version 创建时间：Jun 26, 2019 2:22:41 PM
  */
 public class SingleSensitiveTest {

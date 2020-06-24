@@ -1,4 +1,4 @@
-package com.tzbank.desensitize;
+package com.famiao.desensitize;
 
 import java.io.Serializable;
 import java.util.List;
@@ -12,7 +12,7 @@ import com.github.houbb.sensitive.core.api.strategory.StrategyChineseName;
 
 /**
  * @desc 属性为集合或者对象进行脱敏
- * @author 台州银行:曾斌
+ * @author famiao:曾斌
  * @version 创建时间：Jun 26, 2019 2:21:09 PM
  */
 public class CustomerEntry implements Serializable {

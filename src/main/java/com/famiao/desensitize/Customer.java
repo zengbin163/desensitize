@@ -1,4 +1,4 @@
-package com.tzbank.desensitize;
+package com.famiao.desensitize;
 
 import java.io.Serializable;
 
@@ -11,7 +11,7 @@ import com.github.houbb.sensitive.core.api.strategory.StrategyPhone;
 
 /**
  * @desc 定义客户信息，字段属性进行脱敏
- * @author 台州银行:曾斌
+ * @author famiao:曾斌
  * @version 创建时间：Jun 26, 2019 2:20:39 PM
  */
 public class Customer implements Serializable {
@@ -88,7 +88,7 @@ public class Customer implements Serializable {
     @Override
     public String toString() {
         return "Customer:{username=" + username + ",idCard=" + idCard + ",password=" + password + ",email=" + email
-                + ",phone=" + phone + "}";
+            + ",phone=" + phone + "}";
     }
 
 }

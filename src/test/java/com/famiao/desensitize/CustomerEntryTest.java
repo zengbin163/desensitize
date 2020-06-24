@@ -1,4 +1,4 @@
-package com.tzbank.desensitize;
+package com.famiao.desensitize;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -9,7 +9,7 @@ import com.github.houbb.sensitive.core.api.SensitiveUtil;
 /**
  * 
 * @desc    属性为集合或者对象进行脱敏测试
-* @author  台州银行:曾斌 
+* @author  famiao:曾斌 
 * @version 创建时间：Jun 26, 2019 2:21:58 PM
  */
 public class CustomerEntryTest {

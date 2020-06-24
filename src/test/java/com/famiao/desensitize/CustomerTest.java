@@ -1,4 +1,4 @@
-package com.tzbank.desensitize;
+package com.famiao.desensitize;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ import com.github.houbb.sensitive.core.api.SensitiveUtil;
 /**
  * 
 * @desc    针对对象或者对象集合的属性脱敏
-* @author  台州银行:曾斌 
+* @author  famiao:曾斌 
 * @version 创建时间：Jun 26, 2019 2:22:30 PM
  */
 public class CustomerTest {

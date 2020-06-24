@@ -1,4 +1,4 @@
-package com.tzbank.desensitize;
+package com.famiao.desensitize;
 
 import java.lang.reflect.Field;
 
@@ -9,7 +9,7 @@ import com.github.houbb.sensitive.core.api.strategory.StrategyPassword;
 
 /**
  * @desc 自定义脱敏策略生效的场景（比如密码为123456不进行脱敏）
- * @author 台州银行:曾斌
+ * @author famiao:曾斌
  * @version 创建时间：Jun 26, 2019 2:21:26 PM
  */
 public class CustomerPasswordCondition implements ICondition {

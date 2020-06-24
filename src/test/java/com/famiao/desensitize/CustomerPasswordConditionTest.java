@@ -1,11 +1,11 @@
-package com.tzbank.desensitize;
+package com.famiao.desensitize;
 
 import com.github.houbb.sensitive.core.api.SensitiveUtil;
 
 /**
  * 
 * @desc    自定义脱敏策略生效的场景（比如密码为123456不进行脱敏）
-* @author  台州银行:曾斌 
+* @author  famiao:曾斌 
 * @version 创建时间：Jun 26, 2019 2:22:17 PM
  */
 public class CustomerPasswordConditionTest {
